@@ -1,3 +1,3 @@
 # hello-world
 Just a start
-I new to GitHub.
+I am new to GitHub.
